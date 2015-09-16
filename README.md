@@ -1,5 +1,7 @@
 # Atom.io IRC client
 
+[![Join the chat at https://gitter.im/ChasingLogic/atom-irc](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ChasingLogic/atom-irc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 IRC client that works inside of Atom.io editor.
 
 ![Screenshot](https://github.com/cjsaylor/atom-irc/blob/master/screenshot.png?raw=true)
